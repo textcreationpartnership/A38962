@@ -1,0 +1,301 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact representation of the late comet, or blazing-star which appeared in Hamburgh this year, 1677, at north-east : together with a description of the remarkable comets since Christ's nativity, and the dangerous consequences.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38962</idno>
+            <idno type="STC">Wing E3703</idno>
+            <idno type="STC">ESTC R43158</idno>
+            <idno type="EEBO-CITATION">26922916</idno>
+            <idno type="OCLC">ocm 26922916</idno>
+            <idno type="VID">109861</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38962)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109861)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1716:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact representation of the late comet, or blazing-star which appeared in Hamburgh this year, 1677, at north-east : together with a description of the remarkable comets since Christ's nativity, and the dangerous consequences.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.N. for Jonathan Edwyn ...,</publisher>
+                  <pubPlace>[London] In the Savoy :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed, May 14, 1677. Roger L'Estrange."</note>
+                  <note>Imperfect: creased stained and torn, with slight loss of text.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Comets --  1677.</term>
+               <term>Omens.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:109861:1"/>
+            <head>An Exact Repreſentation of the LATE COMET, OR BLAZING-STAR, Which appeared in <hi>Hamburgh</hi> this YEAR 1677. at NORTH-EAST; Together with a Deſcription of the Moſt Remarkable COMETS ſince CHRIST's Nativity, and the dangerous Conſequences.</head>
+            <head type="sub">Tranſlated out of High-Dutch.</head>
+            <figure>
+               <figDesc>depiction of the comet of 1677 surrounded by constellations</figDesc>
+               <head>THE COMET A<hi rend="sup">o</hi>^<g ref="char:cmbAbbrStroke">̄</g> 1677.</head>
+               <p>North</p>
+               <figure>
+                  <head>Perſeus</head>
+                  <figDesc>depiction of the constellation Perseus</figDesc>
+               </figure>
+               <figure>
+                  <head>Caſsiopea</head>
+                  <figDesc>depiction of the constellation Casseopeia</figDesc>
+               </figure>
+               <figure>
+                  <head>Algol or Caput Meduſae</head>
+                  <figDesc>depiction of the star Algol (eye of Medusa) and the constellation Caput Medusa</figDesc>
+               </figure>
+               <figure>
+                  <figure>
+                     <head>Pes</head>
+                     <figDesc>depiction of a star in the constellation Andromeda</figDesc>
+                  </figure>
+                  <figure>
+                     <head>Cingulu<g ref="char:cmbAbbrStroke">̄</g>
+                     </head>
+                     <figDesc>depiction of the belt of Andromeda</figDesc>
+                  </figure>
+                  <figDesc>depictionof a the constellation Andromeda</figDesc>
+               </figure>
+               <figure>
+                  <head>Triangulum</head>
+                  <figDesc>depiction of the constellation Triangulum</figDesc>
+               </figure>
+               <figure>
+                  <head>Apis</head>
+                  <figDesc>depiction of the constellation Apis</figDesc>
+               </figure>
+               <p>East</p>
+            </figure>
+            <figure>
+               <p>HORIZON</p>
+               <figure>
+                  <figDesc>depiction of the comet on 19 April</figDesc>
+                  <p>As it was ſeen on the 19<hi rend="sup">th</hi>. of Aprill</p>
+                  <p>Northward</p>
+                  <p>Eastward</p>
+                  <p>Horizon</p>
+               </figure>
+               <figure>
+                  <figDesc>depiction of the comet on 22 April</figDesc>
+                  <p>Northward</p>
+                  <p>Easrward</p>
+               </figure>
+               <p>Horizon</p>
+            </figure>
+            <p>
+               <seg rend="decorInit">I</seg>T hath been ever the Opinion of Rational and Underſtanding Men, that COMETS are the unfortunate Tokens, which God ſets up in the Firmament at once to warn and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Men, when nothing elſe will do it. Who knows not, th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> when ſuch unuſual Lights appear in Heaven, there have eve<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> followe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in a verry ſhort time after, great and bloody Wars, Plagues, Dearths, and other Publick Calamities, which have ſwept away infinite numbers of Men, or where their Lives have been given them for a Prey, have invol<g ref="char:EOLhyphen"/>ved them in the danger of being Rob'd, Plunder'd, and having their Houſes and Goods conſumed by Fire, <hi>&amp;c.</hi> So true is that of the Poet,
+<q>
+                  <l>No COMET in the Heavens does appear,</l>
+                  <l>But doth foretell great Plagues and Miſchiefs near.</l>
+               </q>
+            </p>
+            <p>We will give you an Account of ſome COMETS, and ſome unhappy Conſequences, out of Ancient, and Modern Hiſtories, and then come to diſcourſe of that before us.</p>
+            <p>In the year XXIX, before Chriſt's Nativity, appeared a COMET, the Effects of which were ſoon ſeen, not only in a very bloody War, wherein <hi>Auguſtus</hi> the Emperor overcame <hi>An<g ref="char:EOLhyphen"/>thony</hi> King of <hi>Egypt,</hi> and all <hi>Egypt</hi> became ſubject to his power, but in a very dreadful Earth<g ref="char:EOLhyphen"/>quake, which ſhake<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all <hi>Judaea,</hi> and kill'd many thouſands.</p>
+            <p>In the Firſt year of our Saviours Nativity, together with a very great Eclipſe of the Moon, was ſeen a very dreadful Comet, which burnt like a Torch for three dayes; and ſhortly after fol<g ref="char:EOLhyphen"/>low'd King <hi>Herod</hi>'s barbarous Murther of the Infants of <hi>Bethlehem:</hi> nor did the bloody King ſpare his own Son, whom, together with other <hi>Jews,</hi> he cauſed inhumanely to be Butcher'd.</p>
+            <p>In the year 71. after Chriſt, there appeared a Comet in the ſhape of a Fiery Sword, which ſtood over <hi>Jeruſalem,</hi> and was ſeen for a whole year together, and proved the fatal preſage of the overthrow and deſtruction of <hi>Jeruſalem,</hi> and the <hi>Jewiſh</hi> Commonwealth.</p>
+            <p>In the year 78. appeared another Comet of a very terrible Aſpect, for it look'd like a ſharp Arrow, and its Effect was, a very great Peſtilence, which invaded <hi>Rome,</hi> and raging two years to<g ref="char:EOLhyphen"/>gether, conſumed vaſt multitudes of Men, Women, and Children.</p>
+            <p>In the year 323. a Comet foretold the Inundation of the <hi>Arrian</hi> Hereſie.</p>
+            <p>In the year 454. was ſeen a Comet, which burnt like Fire for 21 dayes, and was poſſibly a pre<g ref="char:EOLhyphen"/>ſage either of the ſavage C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uelty, or Death of <hi>Attila,</hi> who burnt and deſtroyed all Countries he came into, and call'd himſelf <hi>The Scourge of God.</hi>
+            </p>
+            <p>
+               <hi>AC.</hi> 539. or as others 538. appeared a Comet for 15 dayes together, upon which there hap<g ref="char:EOLhyphen"/>pen'd theſe following accidents. The King of the <hi>Goths</hi> was Conquered and taken Priſoner by <hi>Belarius</hi> the <hi>Roman</hi> General, and his eyes put out by <hi>Juſtinian</hi> the Emperor. <hi>Coſroes</hi> with a vaſt Army invades <hi>Italy,</hi> and his Army is ruin'd by the Plague. At the ſame time there happen'd a very great Earthquake at <hi>Conſtantinople,</hi> which laſted ten dayes, and kill'd vaſt numbers of Men.</p>
+            <p>
+               <hi>A. C.</hi> 729. in <hi>January,</hi> two Comets appear'd, one before the Suns riſing, the other after hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> going down, whereupon <hi>Leo</hi> the Emperor met with very great Troubles in his Government, and the <hi>Lombards</hi> made great havock in <hi>Italy,</hi> and beſieged <hi>Rome.</hi>
+            </p>
+            <p>
+               <hi>A. C.</hi> 745. A Comet ſeemed to be the Forerunner of a dreadful Peſtilence, which in the City of <hi>Conſtantinople</hi> alone ſwept away above 300000 Men.</p>
+            <p>
+               <hi>A. C.</hi> 828. Men took notice of a Comet, the Effects of which were very dreadful, <hi>viz.</hi> tem<g ref="char:EOLhyphen"/>peſtuous, unuſual Winds, which deſtroy'd abundance of Men and Houſes, and Towns, and Villages, both in <hi>France</hi> and <hi>Germany.</hi>
+            </p>
+            <p>
+               <hi>A. C.</hi> 831. A Comet was ſeen, which was attended with a great Famine and Dearth, inſomuch that in many places Parents murther'd their own Children, and did eat them.</p>
+            <p>
+               <hi>A C.</hi> 838. A Comet appeared, and laſted 25 days, and was the Forerunner of another great Famine, and of the great difference among the Sons of <hi>Ludovicus Pius,</hi> which ended in a very dreadful War, wherein above 100000 Men were kill'd.</p>
+            <p>
+               <hi>A. C.</hi> 841. A Comet preſaged the fatal War, which happen'd ſhortly after, between <hi>Lotha<g ref="char:EOLhyphen"/>rius</hi> and his Brethren.</p>
+            <p>
+               <hi>A. C.</hi> 869. Appeared one, and immediately after, all <hi>Germany</hi> felt very great Earthquakes, as alſo a great Famine, and a very bloody War, which was thought would have proved the utter Extirpation of the Inhabitants.</p>
+            <p>
+               <hi>A. C.</hi> 876. the 20th of <hi>June,</hi> appeared a very dreadful one in <hi>Saxony,</hi> whereupon in <hi>July</hi> following happen'd ſuch incredible Floods of Water, as did infinite miſchief both in <hi>Saxony</hi> and <hi>Thuringia,</hi> and particularly the Town of <hi>Aſchenbrun,</hi> by a ſudden and violent Riſe of Waters was carried away with Houſes, Men, Beaſts, Trees, and Church; and all this in one Night, inſomuch that next day no Man could tell, that ever there had been a Town there.</p>
+            <p>
+               <hi>A. C.</hi> 905. in <hi>March,</hi> appear'd another, and immediately upon't, the <hi>Hungarians</hi> fell into <hi>Ger<g ref="char:EOLhyphen"/>many,</hi> plunder'd it, deſtroy'd and waſted it everywhere. In <hi>Italy</hi> alſo there happen'd very great Calamities, and <hi>Ludovicus</hi> King of the <hi>Lombards</hi> chaſed <hi>Berengarius,</hi> pretending to the Empire, but was on a ſudden overcome again by <hi>Berengarius,</hi> and at <hi>Ditrichs-Bern</hi> had his eyes put out.</p>
+            <p>
+               <hi>A. C.</hi> 1005. Appeared another Comet very terrible, which preſaged the violent Plague and Famine following very ſhortly after, in which more Men were kill'd than remained alive, and which overſpread almoſt the whole habitable World; and within a little while after happen'd the Holy War, which laſted 88 years, and conſumed an infinite number of Men; not to mention the mighty Troubles which aroſe in the Church about this time about the Election of Popes.</p>
+            <p>
+               <hi>A. C.</hi> 1165. Appeared another, and preſently after, there happen'd the great Earthquakes in <hi>Syria</hi> and <hi>Sicily,</hi> which deſtroy'd a great number of Cities and Towns. A very bloody War alſo enſued between the <hi>Poles</hi> and <hi>Pruſſians,</hi> and betwixt Duke <hi>Henry</hi> the <hi>Lion</hi> and Marqueſs <hi>Albert</hi> ſurnamed <hi>the Bear,</hi> about the Countrey of <hi>Saxony,</hi> wherein <hi>Henry</hi> was put to flight, and which occaſion'd a great quarrel betwixt <hi>Welphus</hi> Duke of <hi>Bavaria,</hi> and Paltſgrave <hi>Hugo,</hi> who had the Counts of <hi>Zollern</hi> for his Auxiliaries. They deſtroy'd many Towns and Countries, till at laſt Duke <hi>Wolf</hi> beſieged <hi>Tubingen,</hi> which Siege the Paltſgrave came to raiſe, and therefore occa<g ref="char:EOLhyphen"/>ſion'd a bloody Fight, in which the Duke was forced to flie, who yet within a very ſhort time af<g ref="char:EOLhyphen"/>ter, having got the <hi>Bohemians</hi> to be on his ſide, deſtroyed <hi>Bavaria</hi> and <hi>Suabia,</hi> and all <hi>Germany,</hi> to the very Lake of <hi>Geneva.</hi> About this time the Emperor found trouble enough in <hi>Italy</hi> from his Adverſary, and was forced to go to <hi>Rome,</hi> which City very much oppoſed him, but was in a ſhort time Conquer'd by the Emperor, who kill'd above 12000 men, and made himſelf Maſter of the City.</p>
+            <p>
+               <hi>A. C.</hi> 121<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. The 18 of <hi>May,</hi> another Comet appeared, which was a Forerunner of the bloody Invaſion of <hi>Europe</hi> by the <hi>Tartars.</hi>
+            </p>
+            <p>
+               <hi>A. C.</hi> 1264. in <hi>Auguſt</hi> appeared another, which laſted three Months, and foretold the ſad Fate of the Famous and Noble City of <hi>Acon</hi> which by a terrible Earthquake periſh'd, and was totally deſtroy'd.</p>
+            <p>
+               <hi>A. C.</hi> 1312, 1314, and 1362. Divers Comets were then ſeen, which had this Effect, that a great Mortality of Men and Cattle, and Famine, and other ſad Diſaſters, follow'd upon't, and eſpecially <hi>A.C.</hi> 1314. the Comet which was ſeen, appear'd with a very long Tail towards North-weſt, and for a whole year together it rain'd, which occaſion'd a very great Peſtilence, and a very cruel Famine, inſomuch that Men could not contain themſelves from feeding on dead Carcaſſes, and Parents from eating their own Children.</p>
+            <p>
+               <hi>A.C.</hi> 1403. <hi>April</hi> the firſt, in the Evening, at North-eaſt appear'd a Comet, whoſe Tail caſt it ſelf towards the North, and immediately thereupon happen'd a great War between <hi>Sweden</hi> and <hi>Denmark;</hi> and about <hi>December</hi> following, ſuch Floods of Water roſe, that many Towns, Villages, Men and Cattle were drown'd.</p>
+            <p>
+               <hi>A.C.</hi> 1472. A Comet was ſeen with a very long train ſtretching it ſelf towards the Eaſt, and continuing above Eighty days, and cauſing, beſides other miſeries and diſaſters, a very dreadful Peſtilence, and a very dry Summer, and ſuch vaſt numbers of flying Locuſts in <hi>Hungary, Poland, Sileſia, Mahren, &amp;c.</hi> that the people could not ſee the Sun, they flew ſo thick together.</p>
+            <p>
+               <hi>A.C.</hi> 1475. appear'd another, which look'd pale, and ſometimes of a blewiſh dark colour; whereupon there follow'd the great dearth of Corn, and a very bloudy War among three Kings, <hi>Caſimir</hi> King of <hi>Poland, <g ref="char:V">Ʋ</g>ladiſlaus</hi> King of <hi>Bohemia,</hi> and <hi>Matthias</hi> King of <hi>Hungary;</hi> who waſted and deſtroyed <hi>Sileſia, Mahren, Bohemia,</hi> and the neigbouring Countreys. And the effects of this Comet were alſo felt by <hi>Victorioſus</hi> Duke of <hi>Burgundy</hi> and <hi>Lorrain,</hi> who that very year, beſides the loſs of 17000 <hi>Burgundians</hi> in a Fight, loſt his own life alſo.</p>
+            <p>
+               <hi>A. C.</hi> 1527. appeared a very unuſual Comet, and which cannot be parallel'd by any other, ſeen all <hi>Europe</hi> over, full of fire, and of a very great length, in whoſe Circle was ſeen a bended Arm, with a Sword, in a threatning poſture; and about the point of the Sword appeared three Stars, with Tails, as if they were three Comets; and round about thoſe Stars, Spears, and bloody Swords, and Faces of ſeveral Men with long Beards, laſting an hour and a quarter, a ſight ſo aſtoniſhing, that many that ſaw it fell ſick upon't, and died. The Effects were ſeen ſhortly after, for the <hi>Turks</hi> fell into <hi>Hungary,</hi> beſieged <hi>Vienna,</hi> and a great deal of blood was ſhed. This very year, the City of <hi>Rome</hi> was taken by the Duke of <hi>Burbo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and great Inſolencies were committed by the Soldiers.</p>
+            <p>
+               <hi>A.C.</hi> 1531. appeared another Comet, ſeen in <hi>Germany, Italy, France,</hi> and in the neighbour<g ref="char:EOLhyphen"/>ing Countreys; a fore-runner of that bloody <hi>Helvetian</hi> War, in which the Towns of <hi>Zurick, Zug, <g ref="char:V">Ʋ</g>ri, <g ref="char:V">Ʋ</g>nderwalden,</hi> and <hi>Lucern</hi> were engaged.</p>
+            <p>And much more miſchief did that Comet portend, which was ſeen in <hi>Hungary,</hi> in the year 1541. which at laſt changed it ſelf into the ſhape of a Dragon before whoſe mouth was ſeen the Figure of a Mans Head, and at his Tail a bloody Flame, and the Dragon turning his mouth to<g ref="char:EOLhyphen"/>wards <hi>Auſtria.</hi> That very year the <hi>Germans</hi> and <hi>Hungarians</hi> were totally routed and beaten. And preſently after this diſaſter hapned a great Plague, which ſwept away many thouſands.</p>
+            <p>
+               <hi>A. C.</hi> 1572. and 1577. the two Comets then appearing, portended the enſuing War between <hi>Spain,</hi> and <hi>England</hi> and <hi>Holland;</hi> not to mention the broils and miſeries which <hi>Germany</hi> then groaned under. And what need we ſpeak of Comets which appeared in Ages paſt, when the great Comet that was ſeen in the year 1618. is yet freſh in many Mens memories? A Comet which laſted thirty days, and preſaged a War of thirty years; which accordingly hapned, and proved a ſcourge, whereof the marks are to be ſeen yet at this day. This War was ſeconded by a very cruel Plague, which conſumed thoſe whom the Enemy had left alive; and it's hard to ſay whether more died by the Sword, or by the Peſtilence.</p>
+            <p>One would have thought, when the <hi>German</hi> Peace was made in the year 1648. that God had then done with the tokens of his anger; but alas! in the year 1653. appeared another Glaſs of Gods indignation in Heaven, a Comet which preſaged troubles and deſtruction to <hi>Poland, Sweden, Denmark, Muſcovy, &amp;c.</hi> in which Wars, abundance of Chriſtian blood was ſhed.</p>
+            <p>And in the year 1661, in the <hi>Eagle</hi> in the Firmament there appeared another Comet, which ſufficiently hinted to us, that the <hi>Roman Eagle</hi> was to grapple again with the Enemy of Chriſten<g ref="char:EOLhyphen"/>dom; a paſſage ſo univerſally known, that I need not enlarge upon it.</p>
+            <p>What the two Comets in the year 1664 and 1665 foretold, the Wars which enſued there<g ref="char:EOLhyphen"/>upon can ſufficiently witneſs. Ask <hi>Holland, Brabant, Weſtphalia, Collen, Lubeck,</hi> the <hi>Palatinate, Alſatia, Brandenburg, Pomerania, Macklenburg, Bremen, Schonen, England,</hi> and other Countreys, and they'l ſoon tell you what the conſequences of theſe Comets were. They'l relate to you with tears and ſighs, what miſeries they have felt. Go to the North and Eaſt Sea, they'll ſhow you thouſands of Carkaſſes, which owe their fall to the poiſonous influences of theſe marks of Heavens anger. They'll let you ſee the Places of their Battels, the Bones of their kill'd men, and the Monuments of thoſe perſons, who have been ſwept away with theſe inundations; and on their Tomb-ſtones you may find theſe words engraven, <hi>In this place, Death in one Fight hath torn away ſo many thou<g ref="char:EOLhyphen"/>ſands out of t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> La<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d of the living, whoſe bones are her<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> interr'd.</hi> Conſider the Element of the Fire, and let it be r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>membred, what hurt, what miſchief it hath done within theſe few years: How many Cities and Towns of late have been buried in aſhes by this mercileſs Element. Nor hath the Water ceas'd to offer violence to Men of late years; for we have had news from ſeveral places, and with amazement we have heard, what Flouds have hapned up and down, to the ruine and deſtruction of Men and Countreys. And the Winds have been for ſome years ſo violent, that one would have thought they threatned ruine to all the Veſſels that plough'd the Sea, and to all the Towers and Steeples which adorn'd the nobler Buildings. Witneſs the Hurricanes in the year 1674. whereof <hi>Holland</hi> hath felt the ſmart.</p>
+            <p>What the two great double-tail'd Comets, which were ſeen the 10 of <hi>November,</hi> 1675. in <hi>Alſatia</hi> and <hi>Swiſſerland</hi> portended, let the Inhabitants of thoſe Countreys ſpea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> where you might ſee nothing but murther, and fire, and ruine, cauſed by the <hi>French</hi> Army. Let a Man ask the famous Towns, <hi>Haguenaw, Cronweiſenburg, Deuxponts, Caſſel, Newenburg,</hi> St. <hi>Wendel,</hi> and many hundred Villages in that Neighbourhood, and they'll acquaint you with the ſad diſaſters, that within theſe few months have befaln them. The Cities and Towns which a little while ago were full of people, are now nothing but heaps of ſtone, and Wilderneſſes, and the Inhabitants Beggars and Alms-folk, that muſt beg a piece of bread from door to door. Inſomuch that it may now be truly ſaid,
+<q>
+                  <l>What new Experiment of Death and Plagues</l>
+                  <l>Will Heaven invent, <hi>Alſatia,</hi> after this!</l>
+                  <l>God hath tri'd all. How is thy priſtine ſtate</l>
+                  <l>Alter'd, and chang'd, and turned upſide down!</l>
+                  <l>The Market once of pretious things thou waſt,</l>
+                  <l>Things which can make a place renown'd and great<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Thou went'ſt beyond the Countreys we admire</l>
+                  <l>Things ſeen elſewhere, are epitomiz'd in thee.</l>
+                  <l>Thy Praiſe is gone, thy Ornaments are loſt;</l>
+                  <l>Thy Coffers rifl'd, and thy Gold caſhier'd,</l>
+                  <l>Thy Cities ruin'd, and thy Towns laid waſte:</l>
+                  <l>And thus thy Garden is a Deſart grown.</l>
+               </q>
+            </p>
+            <p>From what we have ſaid it ſufficiently appears, that Comets are no uſeleſs things. God grant, that the Comet which hath lately been ſeen, may bring us better news. It appear'd, and was ſeen on the <hi>16th</hi> day of <hi>April</hi> at <hi>Hamburg;</hi> and, as thoſe that took an exact view of it, tell us, it was very fiery, and caſt its beams towards the Eaſt. Afterwards, when the Heavens were clear, and without Clouds, it appeared perpendicular, and ſtanding bolt upright. It roſe at North-Eaſt in the morning, about two of the Clock, and had its ſcituation betwixt the left foot of <hi>Andromeda,</hi> and the <hi>Triangle</hi> in the Firmament. Its Tail hath been obſerved to be of an unequal length, having appeared ſometimes longer, ſometimes ſhorter; but its ordinary length was about three quarters of a yard.</p>
+            <p>What the Learned will judge of it, will be ſeen ere long by their Writings. To ſp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpiri<g ref="char:EOLhyphen"/>tually of it, let every man that hath either ſeen or heard of it, or read of it, lay his hand upon his breaſt, and think with himſelf, That God hath ſent this Comet for his ſins, and threatens deſtruction to him: Let him ſearch and examine his Conſcience, and confeſs his ſins, and repent, by mending his life; and without doubt this will be the beſt interpretation of the Comet.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>In the SAVOY, <hi>Printed by</hi> T. N. <hi>for</hi> Jonathan Edwyn <hi>at the</hi> Three Roſes <hi>in</hi> Ludgate-ſtreet, <hi>1677.</hi>
+            </p>
+         </div>
+         <div type="license">
+            <p>Licenſed,</p>
+            <closer>
+               <dateline>
+                  <date>May 14. 1677.</date>
+               </dateline> 
+               <signed>Roger L'Eſtrange.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
